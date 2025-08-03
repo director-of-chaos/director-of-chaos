@@ -53,6 +53,6 @@ I'm a cybersecurity engineer, applied cryptography developer, bug hunter, and (r
 
 ----------
 
-> "Human dignity demands that personal information, like medical and forensic data, be hidden from the public. But veils of secrecy designed to preserve privacy may also be abused to cover up lies and deceit by institutions entrusted with data, unjustly harming citizens and eroding trust in central institutions. Zero-knowledge (ZK) proof systems are an ingenious cryptographic solution to this tension..."
+> "Human dignity demands that personal information, like medical and forensic data, be hidden from the public. But veils of secrecy designed to preserve privacy may also be abused to cover up lies and deceit by institutions entrusted with data, unjustly harming citizens and eroding trust in central institutions. Zero-knowledge (ZK) proof systems are an ingenious cryptographic solution to this tension between the ideals of personal privacy and institutional integrity, enforcing the latter in a way that does not compromise the former."
 > 
 > — Eli Ben-Sasson et al, [StarkWare whitepaper](https://starkware.co/wp-content/uploads/2022/05/STARK-paper.pdf)
