@@ -1,4 +1,4 @@
-## 👋🏽 Hey, I'm Nabil, but you can call me konfushon
+## 👋🏽 Hey, I'm konfushon
 
 I'm the kind of developer who looked at smart contract security, said "cool, but what if we went deeper?", and promptly disappeared into the cryptographic rabbit hole. Six months later, I came out yelling about zero-knowledge proofs and multi-party computation and I haven't shut up since.
 
